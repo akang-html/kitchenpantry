@@ -23,15 +23,3 @@ h3{
     color: brown;
 
 }
-
-#rectangle {
-    width: 200px;
-    height: 15px;
-    background: rgb(0, 0, 0);
-  }
-
-  #rectangle2 {
-    width: 15px;
-    height: 150px;
-    background: rgb(0, 0, 0);
-  }
