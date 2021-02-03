@@ -29,4 +29,9 @@ h3{
     height: 100px;
     background-color: black;
   }
-  
+
+  #rectangle {
+    width: 200px;
+    height: 100px;
+    background: red;
+  }
