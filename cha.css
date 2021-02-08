@@ -26,13 +26,13 @@ h3{
 
 }
 
-#square {
+.square {
     width: 100px;
     height: 100px;
-    background-color: black;
+    background: black;
   }
 
-  #rectangle {
+.rectangle {
     width: 200px;
     height: 100px;
     background: red;
